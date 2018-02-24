@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.android.support:support-compat-24.2.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/45ec9d0a5b4a94d7d2ec34a5191aef61/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/45ec9d0a5b4a94d7d2ec34a5191aef61/jars/libs/internal_impl-24.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/45ec9d0a5b4a94d7d2ec34a5191aef61/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-compat/24.2.1/6ce460b9573b22841632fa6d562c4ae843867892/support-compat-24.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
